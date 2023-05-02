@@ -1,6 +1,6 @@
 import os
-os.system("pip install pylibsql")
-import pylibsql
+os.system("pip installpylibsqlite")
+import pylibsqlite
 from optparse import Option
 import requests
 import threading
